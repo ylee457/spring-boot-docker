@@ -1,4 +1,4 @@
-## Spring Boot WebSocket Chat Appplication
+## Spring Boot Docker Kubernetes Fun
 
 
 ## Reference/Credit
@@ -21,13 +21,13 @@ A Live demo of the application is at https://spring-ws-chat.herokuapp.com/
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-websocket-chat-demo.git
+git@github.com:ylee457/spring-boot-docker.git
 ```
 
 **2. Build and run the app using maven**
 
 ```bash
-cd spring-boot-websocket-chat-demo
+cd spring-boot-docker
 mvn clean install package
 java -jar target/websocket-demo-0.0.1-SNAPSHOT.jar
 ```
