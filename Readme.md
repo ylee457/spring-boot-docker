@@ -8,7 +8,7 @@ Please see the original source at https://www.callicoder.com/spring-boot-websock
 
 A Live demo of the application is at https://spring-ws-chat.herokuapp.com/
 
-![Application Screenshot](screenshot.png)
+![Application Screenshot](https://github.com/ylee457/spring-boot-docker/blob/master/screenshot.png)
 
 ## Requirements
 
